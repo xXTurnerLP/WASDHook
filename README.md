@@ -2,7 +2,7 @@
 Tool that captures your keyboard input and injects certain combination that allows you to almost bypass all of inertia
 
 # How to install
-Click this [download link](https://github.com/xXTurnerLP/WASDHook/releases/download/bin/WASDHook.zip)
+Click this [download link](https://github.com/xXTurnerLP/WASDHook/releases/download/bin/WASDHook.zip) <br>
 I recommend downloading from the link instead of compiling it yourself since the .exe is protected with VMP
 
 # How it works
